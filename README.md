@@ -2,8 +2,7 @@
 
 - I love open source and am  an Apache Arrow 🏹 PMC Member and one of the maintainers of the {arrow} R 📦
 - I'm at home in R, though think that Python 🐍 is pretty neat too and have worked with both in production environments
-- 🌱 I’m currently learning C++ (specifically cpp11 in R)
-- 👯 I’m looking to collaborate on anything around increasing diversity in open source
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: [@nic_crane on Twitter](https://twitter.com/nic_crane) or [@nic_crane@fosstodon.org on Mastodon](https://fosstodon.org/@nic_crane)
 
  
