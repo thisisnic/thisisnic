@@ -1,5 +1,7 @@
-Hi, I'm Nic. 
+Hi, I'm Nic. 👋
 
-I'm an independent R consultant, who helps teams deploy production-grade R code, and level up their R skills.
+I'm an open source maintainer, R consultant, and educator.
 
-I'm also an Apache Arrow 🏹 PMC Member and part of the team who maintain the {arrow} R 📦
+I'm also part of the team who maintain the {arrow} R 📦
+
+📫 Get in touch via: [Bluesky](https://bsky.app/profile/niccrane.bsky.social) or [LinkedIn](https://www.linkedin.com/in/niccrane/)
